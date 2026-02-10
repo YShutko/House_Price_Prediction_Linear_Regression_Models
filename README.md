@@ -227,11 +227,11 @@ See `requirements.txt` for a complete list with versions.
 - Project: Supervised Machine Learning - Regression Analysis
 - Course: Machine Learning Specialization
 
-## 📄 License
+## License
 
 This project is available for educational and research purposes.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset: UCI Machine Learning Repository
 - Platform: Kaggle
